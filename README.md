@@ -15,6 +15,6 @@ The EasyDelivery Management System is a relational database management system de
 
 ## Installation
 - Clone the repository
-<br />```git clone https://github.com/your-username/easydelivery-management-system.git```
+<br />```git clone https://github.com/yashwanth-javvaji/easydelivery-management-system.git```
 - Ensure that you have a compatible relational database management system (e.g., MySQL or Oracle) set up.
 - Import the database schema and populate it with the provided SQL statements.
